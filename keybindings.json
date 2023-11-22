@@ -1,0 +1,35 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "command": "workbench.action.toggleActivityBarVisibility",
+        "key": "ctrl+a"
+    },
+    {
+        "command": "workbench.action.toggleSidebarVisibility",
+        "key": "ctrl+e"
+    },
+    {
+        "command": "workbench.action.togglePanel",
+        "key": "ctrl+t"
+    },
+    {
+        "command": "workbench.action.terminal.new",
+        "key": "ctrl+n",
+        "when": "terminalFocus"
+    },
+    {
+        "command": "workbench.action.terminal.kill",
+        "key": "ctrl+d",
+        "when": "terminalFocus"
+    },
+    {
+        "command": "explorer.newFile",
+        "key": "n",
+        "when": "filesExplorerFocus && !inputFocus"
+    },
+    {
+        "command": "deleteFile",
+        "key": "d",
+        "when": "filesExplorerFocus && !inputFocus"
+    }
+]

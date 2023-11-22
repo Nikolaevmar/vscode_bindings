@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.statusBar.visible": false,
+    "editor.fontFamily": "'JetBrainsMono NF', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.env.osx": {},
+    "terminal.integrated.env.windows": {},
+    "telemetry.telemetryLevel": "off",
+    "breadcrumbs.enabled": false,
+    "update.showReleaseNotes": false,
+    "prettier.tabWidth": 4,
+    "window.zoomLevel": 0.5,
+    "editor.accessibilitySupport": "off"
+}
