@@ -3,7 +3,7 @@
     "workbench.colorTheme": "Default Dark+",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.statusBar.visible": false,
-    "editor.fontFamily": "'JetBrainsMono NF', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'JetBrainsMono NF', Menlo, Monaco, 'Courier New', monospace", // install JetBrainsMono font
     "editor.fontSize": 14,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
